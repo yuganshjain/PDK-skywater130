@@ -43,4 +43,8 @@ xschem
  e4 -> enter into specific block
  
  ctrl + e -> exit
-
+ 
+```
+cd ../mag
+magic
+```
