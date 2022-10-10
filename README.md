@@ -137,3 +137,5 @@ plot V(in) V(out)
 
 Now save file as inverter_tb.sch
 
+After this click on netlist and then simulation
+It will display plot of input vs output
