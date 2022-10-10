@@ -123,5 +123,7 @@ insert gnd.sym
  Connect as shown and change in out name.
  Now change voltages 
 
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c1d35581b4a80fb00404234b302d7f9af58eb550/Images/symbol-3.png"  width="600" height="300">
 
-
+insert devices/codeshown.sym
+and change blabla value to value = ".lib /usr/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice tt"
