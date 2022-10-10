@@ -4,7 +4,10 @@ Physical verification using skywater130nm technology
 DAY:1 
 Tools Installation and basic DRC/LVS design Flow:
 1. Magic : 
-2. <img src="https://github.com/yuganshjain/PDK-skywater130/blob/c87742eb5c86f92d0cf546e4f4688c3dec49522f/Images/magic.png"  width="300" height="300">
-3. Netgen : ![alt text](https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/netgen.png)
-4. xschem : ![alt text](https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/xschem.png)
-5. ngspice : ![alt text](https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/ngspice.png)
+2. <img src="https://github.com/yuganshjain/PDK-skywater130/blob/c87742eb5c86f92d0cf546e4f4688c3dec49522f/Images/magic.png"  width="600" height="300">
+3. Netgen :
+4. <img src="https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/netgen.png"  width="600" height="300">
+5. xschem : 
+6. <img src="https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/xschem.png"  width="600" height="300">
+7. ngspice : 
+8. <img src="https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/ngspice.png"  width="600" height="300">
