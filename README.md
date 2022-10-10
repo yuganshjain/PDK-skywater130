@@ -34,3 +34,5 @@ Now test the setups :
 cd ../xschem
 xschem
 ```
+
+ <img src="https://github.com/yuganshjain/PDK-skywater130/blob/0c2a3bda458b0825ae1228220955afd5b8ba7fac/Images/xschem-1.png"  width="600" height="300">
