@@ -17,7 +17,7 @@ Tools Installation and basic DRC/LVS design Flow:
  <img src="https://github.com/yuganshjain/PDK-skywater130/blob/4f1a5a8870308362b07e96d650d4b5f52df8c3ed/Images/ngspice.png"  width="600" height="300">
 
 
-**Creating Sky130 device layout in magic:** 
+##Creating Sky130 device layout in magic: 
 
 Setup commands : 
 
