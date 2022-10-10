@@ -42,3 +42,4 @@ xschem
  ```
  e4 -> enter into specific block
  ctrl + e -> exit
+ ```
