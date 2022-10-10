@@ -53,3 +53,11 @@ magic -d XR (enhanced)
 ```
 
 ## Creating Simple schematic in xschem: 
+
+```
+cd ../xschem
+xschem
+```
+Go to file -> new schematic (ctrl+n)
+press insert key on keyboard
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c5b8c11ef01582914f121c9ed541d8faf269be76/Images/schematic-e4.png"  width="600" height="300">
