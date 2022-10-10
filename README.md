@@ -104,3 +104,24 @@ Press right click on nfet
 
 ### For pfet
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/d4e4e35ca9ebf71dadd0dd556eb029d3e2fdb42a/Images/pfet.png"  width="600" height="300">
+
+
+## Creating Symbol and exporting schematic in xschem: 
+1. Go to symbols
+2. Make symbols from schematic
+New schematic -> library -> open inverter.sym -> click ok
+
+Now insert devices/vsource.sym
+insert gnd.sym
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/11f46ecb276c7b8db58957af9400428980986dd9/Images/symbol-1.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/11f46ecb276c7b8db58957af9400428980986dd9/Images/symbol-2.png"  width="600" height="300">
+ 
+ Create pins for signals in ngspice output
+ opin.sym
+ Connect as shown and change in out name.
+ Now change voltages 
+
+
+
