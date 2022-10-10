@@ -159,3 +159,20 @@ That's all for xschem.
 cd ../mag
 magic -d XR
 ```
+
+Go to file 
+Import spice
+Go to xchem -> open inverter.spice
+
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/1a93acb2b290d9ede01de5e64d26c42cccd6cc18/Images/spice-1.png"  width="600" height="300">
+
+V key press to get full view
+
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/1a93acb2b290d9ede01de5e64d26c42cccd6cc18/Images/spice-2.png"  width="600" height="300">
+
+**i to select the block and m to move it and s to select below blocks**
+i and then ctrl+p (paramaters)
+select top guard ring coverage and type 100.
+
