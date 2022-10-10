@@ -139,3 +139,5 @@ Now save file as inverter_tb.sch
 
 After this click on netlist and then simulation
 It will display plot of input vs output
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/a4ed01374c49c163da5cfa82abaa4f1aad189203/Images/symbol-5.png"  width="600" height="300">
