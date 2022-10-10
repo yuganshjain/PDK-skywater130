@@ -60,4 +60,4 @@ xschem
 ```
 Go to file -> new schematic (ctrl+n)
 press insert key on keyboard
-<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c5b8c11ef01582914f121c9ed541d8faf269be76/Images/schematic-e4.png"  width="600" height="300">
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/6423d733295cb202270566e47e0571ae4e31ea22/Images/xschem-insert.png"  width="600" height="300">
