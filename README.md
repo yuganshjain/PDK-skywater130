@@ -61,3 +61,7 @@ xschem
 Go to file -> new schematic (ctrl+n)
 press insert key on keyboard
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/6423d733295cb202270566e47e0571ae4e31ea22/Images/xschem-insert.png"  width="600" height="300">
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(1).png"  width="600" height="300">
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(2).png"  width="600" height="300">
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(3).png"  width="600" height="300">
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(4).png"  width="600" height="300">
