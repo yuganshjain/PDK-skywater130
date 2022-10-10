@@ -151,3 +151,11 @@ Now Go to simulation  -> LVS netlist checked.
 Click on netlist
 and then quit.
 That's all for xschem.
+
+
+## Importing Schematic To Layout and Inverter Layout Steps
+
+```
+cd ../mag
+magic -d XR
+```
