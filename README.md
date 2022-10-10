@@ -1,7 +1,8 @@
 # PDK-skywater130
+## Inverter
 Physical verification using skywater130nm technology
 
-DAY:1 
+
 Tools Installation and basic DRC/LVS design Flow:
 1. Magic : 
 
