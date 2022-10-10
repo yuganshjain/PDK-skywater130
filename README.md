@@ -49,4 +49,5 @@ xschem
 ```
 cd ../mag
 magic
+magic -d XR (enhanced)
 ```
