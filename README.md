@@ -25,4 +25,7 @@ Setup commands :
 
 
 Now test the setups :
-
+```
+cd ../xschem
+xschem
+```
