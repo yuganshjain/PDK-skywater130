@@ -126,4 +126,14 @@ insert gnd.sym
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/c1d35581b4a80fb00404234b302d7f9af58eb550/Images/symbol-3.png"  width="600" height="300">
 
 insert devices/codeshown.sym
-and change blabla value to value = ".lib /usr/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice tt"
+and change 1st blabla value to value = ".lib /usr/share/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice tt"
+and 2nd codeshown value to value = ".control
+tran 1n 1u
+plot V(in) V(out)
+.endc"
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/5100fbef92c0c77656c79eaba64b7a37bf69f4d0/Images/symbol-4.png"  width="600" height="300">
+
+
+Now save file as inverter_tb.sch
+
