@@ -62,14 +62,17 @@ xschem
 Go to file -> new schematic (ctrl+n)
 
 Press *insert* key on keyboard
+
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/6423d733295cb202270566e47e0571ae4e31ea22/Images/xschem-insert.png"  width="600" height="300">
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(1).png"  width="600" height="300">
+
 Select nfet_01v8.sym
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(2).png"  width="600" height="300">
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(3).png"  width="600" height="300">
+
 Select pfet3_01v8.sym
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(4).png"  width="600" height="300">
@@ -94,3 +97,10 @@ We need to select 4 :
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/4eafef687bb5031b4a30e7fc8711e9222d0756f1/Images/xschem-6.png"  width="600" height="300">
 
+Now we need to change values of nfet and pfet for the inverter 
+Press right click on nfet
+### For nfet
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/d4e4e35ca9ebf71dadd0dd556eb029d3e2fdb42a/Images/nfet.png"  width="600" height="300">
+
+### For pfet
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/d4e4e35ca9ebf71dadd0dd556eb029d3e2fdb42a/Images/pfet.png"  width="600" height="300">
