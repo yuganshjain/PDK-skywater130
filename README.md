@@ -39,7 +39,8 @@ xschem
  This has lot of example schematics and it introduces you to sky130 devices.
  
  <img src="https://github.com/yuganshjain/PDK-skywater130/blob/c5b8c11ef01582914f121c9ed541d8faf269be76/Images/schematic-e4.png"  width="600" height="300">
- ```
+
  e4 -> enter into specific block
+ 
  ctrl + e -> exit
- ```
+
