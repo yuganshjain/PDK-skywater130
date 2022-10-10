@@ -30,6 +30,7 @@ ln -s /usr/share/pdk/sky130A/libs.tech/magic/sky130A.magicrc .magicrc
 
 ```
 Now test the setups :
+### 1. xschem
 ```
 cd ../xschem
 xschem
@@ -44,6 +45,7 @@ xschem
  
  ctrl + e -> exit
  
+ ### 2. magic
 ```
 cd ../mag
 magic
