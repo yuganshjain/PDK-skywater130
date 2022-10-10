@@ -23,7 +23,12 @@ Setup commands :
 
  <img src="https://github.com/yuganshjain/PDK-skywater130/blob/8dd90a986403240e2b4347749cebed52c4e35ea5/Images/magic_layout_install.png"  width="600" height="300">
 
+```
+ln -s /usr/share/pdk/sky130A/libs.tech/xschem/xschemrc
+ln -s /usr/share/pdk/sky130A/libs.tech/ngspice/spinit .spiceinit
+ln -s /usr/share/pdk/sky130A/libs.tech/magic/sky130A.magicrc .magicrc
 
+```
 Now test the setups :
 ```
 cd ../xschem
