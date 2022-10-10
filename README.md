@@ -59,9 +59,31 @@ cd ../xschem
 xschem
 ```
 Go to file -> new schematic (ctrl+n)
-press insert key on keyboard
+
+Press *insert* key on keyboard
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/6423d733295cb202270566e47e0571ae4e31ea22/Images/xschem-insert.png"  width="600" height="300">
+
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(1).png"  width="600" height="300">
+Select nfet_01v8.sym
+
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(2).png"  width="600" height="300">
+
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(3).png"  width="600" height="300">
+Select pfet3_01v8.sym
+
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/a0dce13cad63102be73b804d27b52b0aa84f2b3c/Images/xschem-insert(4).png"  width="600" height="300">
+
+Now go back to library and select devices :
+### If you want to move nfet or pfet press m keyword
+### if you want to copy press c
+We need to select 4 : 
+1. ipin.sym
+2. opin.sym
+3. iopin.sym (2)
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/23d10d7a80df9704fa03aeb5b3f6c09a20a9dd84/Images/xschem-9.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/23d10d7a80df9704fa03aeb5b3f6c09a20a9dd84/Images/xschem-8.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/23d10d7a80df9704fa03aeb5b3f6c09a20a9dd84/Images/xschem-7.png"  width="600" height="300">
+
