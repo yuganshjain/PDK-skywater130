@@ -308,3 +308,43 @@ gds write test
 ![inv-dir](Day2/ab-1.png)
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/ab0fe47237e725bffbbc2fd24c3ded3ebe938ddd/GDS_images/ab-2.png"  width="600" height="300">
+
+## 4. Basic Extraction
+
+```
+magic -d XR
+load sky130_fd_sc_hd__and2_1
+extract all
+ext2spice lvs
+ext2spice
+ext2spice cthresh 0
+ext2spice
+```
+
+![inv-dir](Day2/ex-01.png)
+![inv-dir](Day2/ex-02.png)
+
+```
+ext2sim labels on
+ext2sim
+```
+![inv-dir](Day2/ex-03.png)
+now run these
+```
+extresist tolerance 10
+extresist
+```
+![inv-dir](Day2/ex-04.png)
+Now we will do
+
+```
+ext2spice lvs
+ext2spice cthresh 0.01
+ext2spice extresist on
+ext2spice
+
+```
+![inv-dir](Day2/ex-05.png)
+
+![inv-dir](Day2/ex-06.png)
+
