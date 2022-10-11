@@ -273,3 +273,19 @@ readspice /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/b86d88e1cb7a27219a063ce181dfe1b1bcc93b12/GDS_images/abs-2.png"  width="600" height="300">
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/b86d88e1cb7a27219a063ce181dfe1b1bcc93b12/GDS_images/abs-3.png"  width="600" height="300">
+
+```
+load test
+getcell sky130_fd_sc_hd__and2_1
+```
+
+select - s
+expand - x
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c604ddab6c3a36791000431f2bfaa8838f9f65a8/GDS_images/abs-4.png"  width="600" height="300">
+
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c604ddab6c3a36791000431f2bfaa8838f9f65a8/GDS_images/abs-5.png"  width="600" height="300">
+
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/c604ddab6c3a36791000431f2bfaa8838f9f65a8/GDS_images/abs-6.png"  width="600" height="300">
