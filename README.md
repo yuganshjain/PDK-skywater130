@@ -268,3 +268,8 @@ readspice /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.
 
 ## 3. Abstract Views
 
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/b86d88e1cb7a27219a063ce181dfe1b1bcc93b12/GDS_images/abrstract-1.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/b86d88e1cb7a27219a063ce181dfe1b1bcc93b12/GDS_images/abs-2.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/b86d88e1cb7a27219a063ce181dfe1b1bcc93b12/GDS_images/abs-3.png"  width="600" height="300">
