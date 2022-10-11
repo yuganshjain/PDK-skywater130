@@ -15,11 +15,14 @@ After the console :
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/089312c278af7ac0213419870002a5a9efbe0bd3/GDS_images/gds_1_2.png"  width="600" height="300">
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/089312c278af7ac0213419870002a5a9efbe0bd3/GDS_images/gds_1_3.png"  width="600" height="300">
+
 ```
 gds read /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/gds/sky130_fd_sc_hd.gds
 cellname top
+
 ```
 Go to cell manager -> will get a scrollable list 
+
 and select and_2_1
 
 
