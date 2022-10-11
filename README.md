@@ -289,3 +289,22 @@ expand - x
 
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/c604ddab6c3a36791000431f2bfaa8838f9f65a8/GDS_images/abs-6.png"  width="600" height="300">
+
+
+```
+save test
+quit
+```
+
+
+again magic -d XR
+load test
+press s and x
+path
+gds write test
+
+
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/ab0fe47237e725bffbbc2fd24c3ded3ebe938ddd/GDS_images/ab-1.png"  width="600" height="300">
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/ab0fe47237e725bffbbc2fd24c3ded3ebe938ddd/GDS_images/ab-2.png"  width="600" height="300">
