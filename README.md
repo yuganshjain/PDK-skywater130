@@ -348,3 +348,5 @@ ext2spice
 
 ![inv-dir](Day2/ex-06.png)
 
+## 5. Setup for DRC
+
