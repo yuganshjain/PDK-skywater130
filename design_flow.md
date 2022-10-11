@@ -184,6 +184,9 @@ bottom guard ring via coverage = 100
 source via covergae = +40
 drain via coverage = -40
 
+
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/f9fc8233ffdde9d57c2648cc9d4c674cedf52ecf/Images/1.png"  width="600" height="300">
+
 ```
 extract do local
 extract all
@@ -191,9 +194,12 @@ ext2spcie lvs
 ext2spice
 quit
 ```
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/f9fc8233ffdde9d57c2648cc9d4c674cedf52ecf/Images/2.png"  width="600" height="300">
+
 now 
+
 ```
 cd ../netgen
 netgen -batch lvs "../mag/inverter.spice inverter" "../xschem/inverter.spice inverter"
 ```
-
+<img src="https://github.com/yuganshjain/PDK-skywater130/blob/f9fc8233ffdde9d57c2648cc9d4c674cedf52ecf/Images/3.png"  width="600" height="300">
