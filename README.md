@@ -305,6 +305,6 @@ gds write test
 
 
 
-![inv-dir](Day1/ab-1.png)
+![inv-dir](Day2/ab-1.png)
 
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/ab0fe47237e725bffbbc2fd24c3ded3ebe938ddd/GDS_images/ab-2.png"  width="600" height="300">
