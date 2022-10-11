@@ -173,6 +173,27 @@ V key press to get full view
 <img src="https://github.com/yuganshjain/PDK-skywater130/blob/1a93acb2b290d9ede01de5e64d26c42cccd6cc18/Images/spice-2.png"  width="600" height="300">
 
 **i to select the block and m to move it and s to select below blocks**
-i and then ctrl+p (paramaters)
-select top guard ring coverage and type 100.
+i and then ctrl+p (paramaters) 
+for pfet
+select top guard ring via coverage and type 100.
+source via coverage = 40
+drain via coverage = -40
+
+for nfet
+bottom guard ring via coverage = 100
+source via covergae = +40
+drain via coverage = -40
+
+```
+extract do local
+extract all
+ext2spcie lvs
+ext2spice
+quit
+```
+now 
+```
+cd ../netgen
+netgen -batch lvs "../mag/inverter.spice inverter" "../xschem/inverter.spice inverter"
+```
 
