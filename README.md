@@ -375,3 +375,53 @@ save test3
 
 ## 6. Setup for LVS
 
+```
+mkdir netgen 
+cd netgen
+cp /usr/share/pdk/sky130A/libs.tech/netgen/sky130A_setup.tcl ./setup.tcl
+cd ../mag
+magic -d XR sky130_fd_sc_hd__and2_1
+```
+![inv-dir](Day2/lvs1.png)
+
+```
+ext2spice lvs
+ext2spice
+quit
+cd ../netgen
+netgen -batch lvs "../mag/sky130_fd_sc_hd__and2_1.spice sky130_fd_sc_hd__and2_1" "/usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice sky130_fd_sc_hd__and2_1"
+
+```
+![inv-dir](Day2/lvs2.png)
+
+## 7. Setup for XOR
+
+```
+cd ../mag
+magic -d XR
+load sky130_fd_sc_hd__and2_1
+save altered
+load altered
+erase li
+flatten -nolabels xor_test
+load sky130_fd_sc_hd__and2_1
+xor -nolabels xor_test
+load xor_test
+quit
+magic -d XR
+load test3
+flatten -nolabels xor_test
+
+xor -nolabels xor_test
+load xor_test
+```
+
+![inv-dir](Day2/xor1.png)
+![inv-dir](Day2/xor2.png)
+![inv-dir](Day2/xor3.png)
+![inv-dir](Day2/xor4.png)
+![inv-dir](Day2/xor5.png)
+![inv-dir](Day2/xor6.png)
+![inv-dir](Day2/xor7.png)
+
+# DRC rules
