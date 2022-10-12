@@ -425,3 +425,24 @@ load xor_test
 ![inv-dir](Day2/xor7.png)
 
 # DRC rules
+
+## 1. Width rule and Spacing rule
+
+```
+git clone https://github.com/RTimothyEdwards/vsd_drc_lab.git
+cd vsd_drc_lab
+./run_magic
+press ? for checking DRC error
+
+box width 0.14um
+paint m2
+```
+![inv-dir](Day3/drc1.png)
+![inv-dir](Day3/drc2.png)
+![inv-dir](Day3/drc3.png)
+![inv-dir](Day3/drc4.png)
+![inv-dir](Day3/drc5.png)
+![inv-dir](Day3/drc6.png)
+![inv-dir](Day3/drc7.png)
+
+
