@@ -350,3 +350,23 @@ ext2spice
 
 ## 5. Setup for DRC
 
+
+```
+/usr/share/pdk/sky130A/libs.tech/magic/run_standard_drc.py /usr/share/pdk/sky130A/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__and2_1.mag
+
+magic -d XR
+load sky130_fd_sc_hd__and2_1
+```
+![inv-dir](Day2/drc1.png)
+```
+load test2
+getcell sky130_fd_sc_hd__and2_1
+getcell sky130_fd_sc_hd__tapvpwrvgnd_1
+```
+![inv-dir](Day2/drc2.png)
+
+![inv-dir](Day2/drc3.png)
+
+![inv-dir](Day2/drc4.png)
+
+![inv-dir](Day2/drc5.png)
