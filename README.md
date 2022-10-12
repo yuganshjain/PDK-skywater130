@@ -370,3 +370,8 @@ getcell sky130_fd_sc_hd__tapvpwrvgnd_1
 ![inv-dir](Day2/drc4.png)
 
 ![inv-dir](Day2/drc5.png)
+
+save test3
+
+## 6. Setup for LVS
+
