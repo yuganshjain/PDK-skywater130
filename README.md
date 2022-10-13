@@ -445,4 +445,4 @@ paint m2
 ![inv-dir](Day3/drc6.png)
 ![inv-dir](Day3/drc7.png)
 
-
+use ? symbol to check drc error in given examples and correct it.
