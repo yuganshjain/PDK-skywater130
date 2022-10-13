@@ -3,6 +3,16 @@ Physical verification using skywater130nm technology
 
 ## Inverter
 
+### Different steps to add PDK to local machine-
+
+```
+Clone the repository git clone https://github.com/RTimothyEdwards/open_pdks
+Run cd open_pdks
+Run ./configure --enable-sky130-pdk
+Run make
+Run sudo make install
+```
+
 
 Tools Installation and basic DRC/LVS design Flow:
 1. Magic : 
