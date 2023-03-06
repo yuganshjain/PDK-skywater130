@@ -2,6 +2,13 @@
 Physical verification using skywater130nm technology
 Physical Verification using Skywater 130nm technology” intends to address various issues that come up during the design cycle as DRC/LVS violations. It aims to demonstrate the best approach to mitigate and rectify these violations.
 Physical Verification methodology using Magic,Netgen and OpenLane flow. It also explores the SKY130 PDK in detail, the knowledge of which is necessary to generate a robust design.
+
+## Tools Used:
+Xschem – A schematic capture and netlisting tool.
+Ngspice – An open-source spice simulator for electronic circuits.
+Magic – A layout editor tool.
+Netgen – A tool used for LVS check.
+OpenLane Flow – It performs full ASIC implementation steps from RTL all the way down to GDSII.
 ## Inverter
 
 ### Different steps to add PDK to local machine-
